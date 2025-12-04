@@ -16,7 +16,7 @@
 - 📫 How to reach me **elijahizkiel1995@gmail.com, https://t.me/elijahizkiel**
 
 ---
-
+<img src="https://githubcard.com/elijahizkiel.svg?d=qk_ZEsLL" alt="githubcard"/>
 <h3 align="left">🚀 Featured Projects:</h3>
 
 | Project | Description | Technologies |
