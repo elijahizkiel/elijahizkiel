@@ -6,13 +6,32 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahizkiel&column=3&theme=radical&title=-Stars,-Reviews" alt="elijahizkiel" /></a> </p>
 
-- 🔭 I’m currently working on **chat-app**
+- 🔭 I'm currently working on **OnlineMedicalAppointmentApp** - A Java desktop application for medical appointment booking
 
-- 🌱 I’m currently learning **React.js, Tailwind.css**
+- 🌱 I'm currently learning **React Native, Machine Learning with TensorFlow**
 
-- 💬 Ask me about **JS, HTML, Java**
+- 👨‍💻 All of my projects are available at [github.com/elijahizkiel](https://github.com/elijahizkiel?tab=repositories)
+
+- 💬 Ask me about **JavaScript, React, Java, Python, Flask, Spring Boot**
 
 - 📫 How to reach me **elijahizkiel1995@gmail.com, https://t.me/elijahizkiel**
+
+---
+
+<h3 align="left">🚀 Featured Projects:</h3>
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Arrhythmias-predictor](https://github.com/elijahizkiel/Arrhythmias-predictor) | ML-powered heart arrhythmia prediction with AI chatbot for medical consultations | Python, Flask, TensorFlow, React, JavaScript |
+| [OnlineMedicalAppointmentApp](https://github.com/elijahizkiel/OnlineMedicalAppointmentApp) | Desktop app for booking and managing medical appointments between patients and doctors | Java, Swing, SQLite, Maven |
+| [book-keeping-app](https://github.com/elijahizkiel/book-keeping-app) | React Native app to track money borrowed or lent among friends | React Native, Expo, TypeScript, Tailwind CSS |
+| [Pharma_Inventory_Manager](https://github.com/elijahizkiel/Pharma_Inventory_Manager) | Desktop application for pharmacy inventory management with PDF reports | Java, SQLite, iTextPDF |
+| [Real-Time-Chat-App-with-GUI](https://github.com/elijahizkiel/Real-Time-Chat-App-with-GUI) | Real-time chat application with graphical user interface | Java |
+| [react-portfolio](https://github.com/elijahizkiel/react-portfolio) | Personal portfolio website showcasing React skills | React, Vite, JavaScript |
+| [weather-app](https://github.com/elijahizkiel/weather-app) | Weather application with real-time data | React, Vite, API Integration |
+| [keeper-app](https://github.com/elijahizkiel/keeper-app) | Note-keeping application inspired by Google Keep | React, JavaScript |
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
