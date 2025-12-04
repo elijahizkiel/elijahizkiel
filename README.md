@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahizkiel&label=Profile%20views&color=0e75b6&style=flat" alt="elijahizkiel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahizkiel&column=3&theme=radical&title=-Stars,-Reviews" alt="github-profile-trophy"/></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=elijahizkiel&column=3&theme=radical&title=-Stars,-Reviews" alt="github-profile-trophy"/></p>
 
 - 🔭 I'm currently working on **ile-chat-app-front-end** (React) and **ile-chat-app-backend-with-flask** (Flask) - a chat application project
 
